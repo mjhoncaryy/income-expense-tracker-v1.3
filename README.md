@@ -1,6 +1,6 @@
 # Income-Outcome Tracker
 
-A Bahasa Indonesia personal cash-flow tracker monorepo. The frontend remains a self-contained mock-data MVP while the new backend is implemented independently; **no frontend adapter or API integration is included yet**.
+A personal cash-flow tracker monorepo. The frontend remains a self-contained mock-data MVP while the new backend is implemented independently; **no frontend adapter or API integration is included yet**.
 
 ## Stack
 
